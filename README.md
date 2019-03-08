@@ -23,6 +23,6 @@ We have included a set of examples in the package that are discusssed in detail 
 
 1. Bugni, F., I. Canay,  and X. Shi  (2017) "Inference for subvectors and other functions of partially identified parameters in moment inequality models," *Quantitative Economics*, 8(1), 1–38..
 
-2. Kaido, H., F. Molinari,  and J. Stoye (2019) "Confidence Intervals for Projections of Partially Identified Parameters," *Forthcoming Econometrica*.
+2. Kaido, H., F. Molinari,  and J. Stoye (2019) "Confidence Intervals for Projections of Partially Identified Parameters," Forthcoming *Econometrica*.
 
 3. Kline, B., and E. Tamer (2016): "Bayesian inference in a class of partially identified models," *Quantitative Economics*, 7(2), 329–366.
