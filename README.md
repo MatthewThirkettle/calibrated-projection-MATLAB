@@ -4,4 +4,4 @@ We present the calibrated-projection MATLAB package implementing the method to c
 
 # Getting Started
 
-The file /Manual/KMST_Manual.pdf provides details  on how to use the package for inference on projections of partially identified parameters and instructions on how to replicate the empirical application and simulation results in the paper.
+The file **calibrated-projection-MATLAB/Manual/KMST_Manual.pdf** provides details  on how to use the package for inference on projections of partially identified parameters and instructions on how to replicate the empirical application and simulation results in the paper.
