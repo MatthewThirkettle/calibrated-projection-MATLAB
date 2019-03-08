@@ -1,6 +1,6 @@
 # Calibrated Projection in MATLAB: User's Manual and Package
 
-We present the calibrated-projection MATLAB package implementing the method to construct confidence intervals proposed by Kaido, Molinari, and Stoye (2019), forthcomiong ECONOMETRICA. This version of the code is what was used to carry out the empirical application in Section 4 of Kaido, Molinari, and Stoye (2019) and the Monte Carlo simulations in Appendix C. Please visit https://molinari.economics.cornell.edu/programs.html for the most up-to-date version of the code.
+We present the calibrated-projection MATLAB package implementing the method to construct confidence intervals proposed by **Kaido, Molinari, and Stoye (2019)**. This version of the code is what was used to carry out the empirical application in Section 4 of Kaido, Molinari, and Stoye (2019) and the Monte Carlo simulations in Appendix C. Please visit https://molinari.economics.cornell.edu/programs.html for the most up-to-date version of the code.
 
 # Getting Started
 
