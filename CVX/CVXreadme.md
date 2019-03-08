@@ -1,1 +1,1 @@
-Visit http://cvxr.com/cvx/ and download the most recent version of CVX to use CVX rather than CVXGEN.
+If CVX is preferrred to CVXGEN due to problem size, then visit http://cvxr.com/cvx/ and download the most recent version of CVX.
