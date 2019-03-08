@@ -13,7 +13,7 @@ The file **calibrated-projection-MATLAB/Manual/KMST_Manual.pdf** provides detail
 
 ## Working Examples
 
-We have included a set of examples in the package that are discusssed in detail in the manual and Kaido, Molinari, and Stoye (2019).
+We have included a set of examples in the package that are discusssed in detail in the manual and in Kaido, Molinari, and Stoye (2019).
 
 1. KT Application: The file **KMS_Application.m** runs the airline application of **Kline and Tamer (2016, Quantitative Economics)**.  This file specifies the additional options and calls  **KMS_0_Main.m**.  The moments, gradients, and standard deviation estimator are included in the files **moments_w.m, moments_theta.m, moments_gradient.m, and moments_stdev.m** under the **DGP=9** if condition.
 2. BCS Simulation: The file **BCS_Simulation.m** replicates the simulations for the game proposed in **Bugni, Canay, and Shi (2017, Quantitative Economics)**.  This example corresponds to **DGP=8**.  
