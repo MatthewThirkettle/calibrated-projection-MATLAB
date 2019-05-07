@@ -61,7 +61,7 @@ if DGP == 1
 elseif DGP == 2
     %% Example:  Rotated cube (DGP-2)
     % Extract datasize and parameters
-    n = KMSoptions.data_size;
+    n = KMSoptions.n;
     theta_1 = theta(1);
     theta_2 = theta(2);
       
@@ -71,7 +71,7 @@ elseif DGP == 2
     % There are no moment equalities, so output the empty set.
     g_eq = [];
 
-elseif DGP == 2
+elseif DGP == 3
     %% Example:  Rotated cube (DGP-3)
     % Extract datasize and parameters
     theta_1 = theta(1);
