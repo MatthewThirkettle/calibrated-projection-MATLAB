@@ -72,7 +72,7 @@ KMSoptions.HR = 0;
 % interval using fmincon and solving eq2.16 directly.
 % This method is not recommended as it is slow and may not converge to
 % optimum if the moments are not well-behaved.
-KMSoptions.direct_solve = 1;
+KMSoptions.direct_solve = 0;
 
 % CVX_resid_tol is a tolerance parameter for the CVXGEN algorithm.  For a
 % particular bootstrap, lambda is feasible if the relevant constraints are
