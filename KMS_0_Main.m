@@ -816,7 +816,7 @@ if direct_solve
     theta_feas_opt      = uniquetol(theta_feas_opt,1e-4,'ByRows',true); 
     num_feas            = size(theta_feas_opt,1);
     theta_feas_opt      = theta_feas_opt(randsample(num_feas,num_feas),:);
-    theta_feas_opt      = theta_feas_opt(1:num_DS_MS,:);
+    theta_feas_opt      = theta_feas_opt(1:min(num_feas,num_DS_MS),:);
     
     % Always take original feasible points and EAM solutions
     thetafeas_opt   = [KMS_output.thetaU_EAM;KMS_output.thetaL_EAM;theta_feas_opt;theta_feas];
